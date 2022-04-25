@@ -2,11 +2,11 @@
 <ArrayOfCredintials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Credintials>
 		<usrFullName>sushantpant</usrFullName>
-		<usrName>sushantpant</usrName>
-		<usrEmail>sushantpant@mail.com</usrEmail>
+		<usrName>sushant</usrName>
+		<usrEmail>xxxxxxxxx@mail.com</usrEmail>
 		<usrPhoneNo>9810000000</usrPhoneNo>
 		<usrAddress>kathmandu</usrAddress>
-		<usrNewPwd>sushantpant</usrNewPwd>
-		<confirmPwd>sushantpant</confirmPwd>
+		<usrNewPwd>sushant</usrNewPwd>
+		<confirmPwd>sushant</confirmPwd>
 	</Credintials>
 </ArrayOfCredintials>
