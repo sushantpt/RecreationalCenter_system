@@ -1,5 +1,5 @@
 FullName,PhoneNO,Address,TotalAdults,TotalKids,EntryTime,Duration,ExpectedExit,EntryDate,totalCost
-sushant pant,987654321,kathmandu,2,0,2:50 PM,1,3:50 PM,1/2/2022,600
+sushant,987654321,kathmandu,2,0,2:50 PM,1,3:50 PM,1/2/2022,600
 michah bell,987654323,kathmandu,2,0,12:27 PM,2,2:27 PM,1/3/2022,1200
 tom clancy,098765679,patan,2,1,12:29 PM,1,1:29 PM,1/3/2022,850
 jefrey bez,0987656789,patan,2,0,12:29 PM,2,2:29 PM,1/3/2022,1200
